@@ -10,6 +10,7 @@ public class ClienteCreateRequest {
     private Boolean activo;
     private String direccion; 
     private String direccionfinal;
+    private Boolean activoPrueba;
 
 
     public String getNombres() { return nombres; }
